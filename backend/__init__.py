@@ -1,1 +1,2 @@
-"""Backend package."""
+"""Outreach Reply Classifier application package."""
+__version__ = "2.0.0"
